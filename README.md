@@ -7,7 +7,7 @@ Hi, my name is Alex. I'm currently 25 years ago (based on the bold assumption I 
 - **R:** Although I prefer working in Python, I do have some basic proficiency in R.
 ### What I'm currently working on
 1. Simple static site generator creating HTML from content provided in Markdown, as my personal continuous learning project; written in JavaScript (Node.js)
-2. Holistic internal analysis tool for work; written in Python using the streamlit package
-3. Tool for work to to clean, check, and process CSV-based contact lists to make them usable for various real-life scenarios that occur in different teams and for different purposes; written in Python using the streamlit package
+2. Holistic internal analysis tool for work; written in Python using streamlit
+3. Tool for work to to clean, check, and process CSV-based contact lists to make them usable for various real-life scenarios that occur in different teams and for different purposes; written in Python using streamlit
 ### Get in touch
 If you have questions, comments, ideas to collaborate on, or anything else you want to tell me, the easiest way to contact me  is on [LinkedIn](https://www.linkedin.com/in/alexanderclausen/). Just shoot a message!
