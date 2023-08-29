@@ -9,7 +9,6 @@ Hi, my name is Alex. I'm 25 years old and based in Berlin, Germany. I work as a 
 ### What I'm currently working on
 1. Simple static site generator creating HTML from content provided in Markdown, as my personal continuous learning project; written in JavaScript (Node.js)
 2. Holistic internal analysis tool for work; written in Python using streamlit
-3. Tool for work to to clean, check, and process CSV-based contact lists to make them usable for various real-life scenarios that occur in different teams and for different purposes; written in Python using streamlit
 ### Get in touch
 If you have questions, comments, ideas to collaborate on, or anything else you want to tell me, the easiest way to contact me  is on [LinkedIn](https://www.linkedin.com/in/alexanderclausen/). Just shoot a message!
 
