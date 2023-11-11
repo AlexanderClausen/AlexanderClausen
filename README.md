@@ -8,7 +8,7 @@ Hi, my name is Alex. I'm 25 years old and based in Berlin, Germany. I work as a 
 - **R:** Although I prefer working in Python, I use R for some of my quantititve academic research.
 ### What I'm currently working on
 1. 👨‍🎓🚧 At the moment, mostly non-programming university-related coursework and research; hence little activity on GitHub
-2. 👨‍💻🔓 Simple static site generator creating HTML from content provided in Markdown, as my personal continuous learning project (Node.js)
+2. 👨‍💻🔓 [Simple static site generator](https://github.com/AlexanderClausen/alextatic) creating HTML from content provided in Markdown, as my personal continuous learning project (Node.js)
 3. 👨‍💻🔒 Holistic internal analysis tool for work (Python, Streamlit)
 ### Previous projects
 1. 👨‍💻🔓 [CSV to XLSX converter](https://github.com/AlexanderClausen/csv2xlsx) for work; needed and used at work by colleagues with German localization settings working with English localized CSV files (Python, Streamlit)
