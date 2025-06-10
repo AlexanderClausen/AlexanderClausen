@@ -18,5 +18,4 @@ Hi, my name is Alex. I'm 26 years old and based in Berlin, Germany. I work as a 
 ### Get in touch
 If you have questions, comments, ideas to collaborate on, or anything else you want to tell me, the easiest way to contact me  is on [LinkedIn](https://www.linkedin.com/in/alexanderclausen/). Just shoot a message!
 
-[![wakatime](https://wakatime.com/badge/user/9bab17c4-32f2-4e6e-a265-2340d8450678.svg)](https://wakatime.com/@9bab17c4-32f2-4e6e-a265-2340d8450678)
 ![](https://hit.yhype.me/github/profile?user_id=45482636)
